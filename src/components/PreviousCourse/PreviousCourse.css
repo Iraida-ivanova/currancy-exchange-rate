@@ -1,0 +1,7 @@
+.previous-course {
+    min-width: 130px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    border-bottom: #B6B6B640 solid 1px;
+}

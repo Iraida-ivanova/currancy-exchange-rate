@@ -1,0 +1,9 @@
+.main-page {
+    max-width: 300px;
+    margin: 0 30px;
+    padding: 20px;
+}
+.main-page__title {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
